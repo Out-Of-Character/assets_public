@@ -1,1 +1,1 @@
-# assets_public
+# Used as an imagee hosting 
