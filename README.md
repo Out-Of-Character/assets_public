@@ -1,1 +1,1 @@
-# Used as an imagee hosting 
+# Used as an image hosting 
